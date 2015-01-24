@@ -1,0 +1,30 @@
+{
+  "name": "slack-irc-map",
+  "version": "0.0.0",
+  "description": "Get slack command and set mapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fntsrlike/slack-irc-map"
+  },
+  "keywords": [
+    "slack",
+    "irc"
+  ],
+  "author": "Ruoshi Ling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fntsrlike/slack-irc-map/issues"
+  },
+  "homepage": "https://github.com/fntsrlike/slack-irc-map",
+  "dependencies": {
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "querystring": "^0.2.0",
+    "underscore": "^1.7.0",
+    "url": "^0.10.2"
+  }
+}
